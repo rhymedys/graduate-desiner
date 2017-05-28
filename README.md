@@ -1,6 +1,6 @@
-# supervisor
+# graduate desiner
 
-> A supervisor.js project product by rhymedys
+> A graduate desiner web project product by rhymedys
 
 ## Build Setup
 
